@@ -1,0 +1,86 @@
+
+PNR : 5723
+Name : madhu
+Train : 102 Superfast
+Train Time : 02:30 PM
+Journey Date : 10/4/2026
+Journey Time : 2:00
+Berth : Middle
+Status : Confirmed
+Seats Left : 4
+
+-------------------
+
+PNR : 2804
+Name : madhu
+Train : 102 Superfast
+Train Time : 02:30 PM
+Journey Date : 10/4/2026
+Journey Time : 2:00
+Berth : Lower
+Status : Confirmed
+Seats Left : 3
+
+-------------------
+
+PNR : 9417
+Name : madhu
+Train : 102 Superfast
+Train Time : 02:30 PM
+Journey Date : 10/4/2026
+Journey Time : 2:00
+Berth : Upper
+Status : Confirmed
+Seats Left : 2
+
+-------------------
+
+PNR : 3402
+Name : madhu
+Train : 102 Superfast
+Train Time : 02:30 PM
+Journey Date : 10/4/2026
+Journey Time : 2:00
+Berth : Upper
+Status : Confirmed
+Seats Left : 1
+
+-------------------
+
+PNR : 2473
+Name : madhu
+Train : 102 Superfast
+Train Time : 02:30 PM
+Journey Date : 10/4/2026
+Journey Time : 2:00
+Berth : Upper
+Status : Confirmed
+Seats Left : 0
+
+-------------------
+
+PNR : 3011
+Name : madhuri
+Train : 103 Intercity
+Train Time : 07:45 PM
+Journey Date : 1/2/2026
+Journey Time : 7:45
+Seats Booked : 1
+Berth : Lower
+Seats Left : 4
+Status : Confirmed
+
+------------------
+
+PNR : 3969
+Name : prasanna
+Train : 102 Superfast
+Train Time : 02:30 PM
+Journey Date : 7/3/2026
+Journey Time : 6:00
+Seats Booked : 3
+Berth : Upper
+Seats Left : 2
+Status : Confirmed
+
+------------------
